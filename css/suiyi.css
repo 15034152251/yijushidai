@@ -1,0 +1,52 @@
+.head{
+	width: 100%;
+	height: 79px;
+	background-color: #fafafa;
+}
+.head_neikuan{
+	width: 1200px;
+	height: 100%;
+	background-color: #fafafa;
+	margin: 0 auto;
+}
+.head_LOGO{
+	width: 110px;
+	height: 79px;
+	float: left;
+}
+.head_LOGO h1{
+	color: #2b6c8c;
+	font-size: 22px;
+	margin-top: 14px;
+	float: right;
+	font-weight: normal;
+}
+.logo_img{
+	width: 48px;
+	height: 39px;
+	padding: 9px 0 11px 7px;
+	float: left;
+}
+.head_title{
+	width: 782px;
+	height: 100%;
+	/* background-color: pink; */
+	float: right;
+}
+.head_title span{
+	font-size: 14px;
+	color: #474747;
+	line-height: 79px;
+	margin-right: 38px;
+}
+.head_title .headheadwenzi{
+	color: #f6a;
+}
+.head_title_sousuo{
+	width: 169px;
+	height: 23px;
+	border: 1px solid #bfbfbf;
+	border-radius: 12.5px;
+	float: right;
+	margin: 25px 22px 0 0;
+}
